@@ -1,0 +1,67 @@
+# depslib dependency file v1.0
+1684886341 source:c:\users\beto\documents\finales hechos 2023\final mayo2022\eje12 ayed listas cuaatrimestral\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	"cliente.h"
+
+1684862336 c:\users\beto\documents\finales hechos 2023\final mayo2022\eje12 ayed listas cuaatrimestral\cliente.h
+
+1684886655 source:c:\users\beto\documents\finales hechos 2023\final mayo2022\eje12 ayed listas cuaatrimestral\detalle.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"detalle.h"
+	"factura.h"
+	"cliente.h"
+	"detalle.h"
+	"producto.h"
+
+1684867459 c:\users\beto\documents\finales hechos 2023\final mayo2022\eje12 ayed listas cuaatrimestral\detalle.h
+
+1684950166 c:\users\beto\documents\finales hechos 2023\final mayo2022\eje12 ayed listas cuaatrimestral\factura.h
+	"lista.h"
+
+1684862336 c:\users\beto\documents\finales hechos 2023\final mayo2022\eje12 ayed listas cuaatrimestral\producto.h
+
+1684955685 source:c:\users\beto\documents\finales hechos 2023\final mayo2022\eje12 ayed listas cuaatrimestral\factura.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"factura.h"
+	"cliente.h"
+	"detalle.h"
+	"producto.h"
+	"lista.h"
+
+1684957876 source:c:\users\beto\documents\finales hechos 2023\final mayo2022\eje12 ayed listas cuaatrimestral\main.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"factura.h"
+	"cliente.h"
+	"detalle.h"
+	"producto.h"
+	"lista.h"
+
+1684862336 source:c:\users\beto\documents\finales hechos 2023\final mayo2022\eje12 ayed listas cuaatrimestral\producto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"factura.h"
+	"cliente.h"
+	"detalle.h"
+	"producto.h"
+
+1684950065 c:\users\beto\documents\finales hechos 2023\final mayo2022\eje12 ayed listas cuaatrimestral\lista.h
+
+1684957278 source:c:\users\beto\documents\finales hechos 2023\final mayo2022\eje12 ayed listas cuaatrimestral\listas.c
+
+1684968706 source:c:\users\beto\documents\finales hechos 2023\final mayo2022\eje12 ayed listas cuaatrimestral\lista.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"factura.h"
+	"cliente.h"
+	"detalle.h"
+	"producto.h"
+
